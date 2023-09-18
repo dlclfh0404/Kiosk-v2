@@ -1,5 +1,7 @@
 # KIOSK 상품 등록 및 매장 운영 프로그램
-***JAVA 구조체를 활용한 KIOSK 운영 프로그램*** : 햄버거 가게
+***JAVA 구조체를 활용한 KIOSK 운영 프로그램*** : 햄버거 가게<br>
+
+> 정리한 노션 사이트 : <a href="https://dlclfh.notion.site/JAVA-Kiosk-17b8152490194dca8b2a09da419401ad?pvs=4">Notion</a>
 
 ## 제작 순서 🔨
 #### Kiosk_Mainmenu 부분
